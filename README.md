@@ -3,7 +3,7 @@
 A custom 3D rendering engine built from scratch in Java, implementing core computer graphics principles without the use of external game engines or libraries. This project was developed as a hands-on exploration of Object-Oriented Programming (OOP) and the mathematical foundations of 3D-to-2D projection.
 
 ## Project Overview
-While inspired by the "Build Your Own X" curriculum and the Rogach 3D tutorial, I expanded the scope from a simple tetrahedron to a more complex 3D car model. This required managing a significantly larger list of vertices and triangles, as well as solving depth-perception issues associated with 3D rendering.
+While inspired by the "Build Your Own X" curriculum and the Rogach 3D tutorial, I expanded the scope from a simple tetrahedron to a more complex 3D car model. This required managing a significantly larger list of vertices and triangles, as well as solving depth-perception issues associated with 3D rendering.  I used comments in the code to keep track and help me understand the code better line by line.
 
 ## Technical Features
 
